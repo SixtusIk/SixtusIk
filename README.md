@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sixtus Ikpali
 - 👀 I’m interested in Data analysis, project planning and excusion.
 - 🌱 I’m currently learning Python for DataScience.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Data-driven projects.
 - 📫 How to reach me on www.linkedin.com/in/sixtus-ikpali
 
 <!---
